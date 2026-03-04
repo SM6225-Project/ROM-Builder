@@ -148,7 +148,3 @@ If your ROM isn't listed, the script will ask you to select the vendor manually 
 - Devices: `devon`, `hawao`, `rhode` (Motorola SM6225 / bengal family)
 
 ---
-
-## License
-
-Do whatever you want with it.
